@@ -5,7 +5,7 @@
 ---
 
 ## 🛠️ Technical Skills
-- ** Programming Languages:** C#, SQL, Python, Java, HTML, CSS, JavaScript, PHP
+- **Programming Languages:** C#, SQL, Python, Java, HTML, CSS, JavaScript, PHP
 - **Technologies:** Cloud Computing, Cybersecurity, Server Administration, Virtualisation, Enterprise Networking, Robotic Process Automation (RPA)
 - **Transferrable Skills:** Project Management, Technical Documentation
 
