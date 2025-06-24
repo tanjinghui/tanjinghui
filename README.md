@@ -1,18 +1,22 @@
 # 👋 About Me
 
-<!-- Currently pursuing a Bachelor of Engineering with Honours in ICT, majoring in **Information Security**. !-->
+<!--Currently pursuing a Bachelor of Engineering with Honours in ICT, majoring in **Information Security** at SIT. !-->
 
 ---
-
 ## 🛠️ Technical Skills
-- **Programming Languages:** C#, SQL, Python, Java, HTML, CSS, JavaScript, PHP
-- **Technologies:** Cloud Computing, Cybersecurity, Server Administration, Virtualisation, Enterprise Networking, Robotic Process Automation (RPA)
-- **Transferrable Skills:** Project Management, Technical Documentation
+- **Programming Languages:** C#, SQL, Python, Java, HTML, CSS, JavaScript, PHP, PowerSHell
+- **Technologies:** Cloud Computing (AWS), Cybersecurity, Server Administration, Virtualisation, Enterprise Networking, Robotic Process Automation (RPA)
 
 ---
 
 ## 💡 What Drives Me
 I’m passionate about seeing the work I do have a positive impact on the people I work with and on business clients. I love solving real-world problems and contributing to a safer and more connected digital world.
+
+---
+
+## 🎯 Goals
+- Deepen my expertise in cybersecurity and cloud technologies
+- Continuously learn and grow as a technology professional
 
 ---
 
