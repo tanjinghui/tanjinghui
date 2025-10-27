@@ -1,11 +1,11 @@
 # 👋 About Me
 
-<!-- Currently pursuing a Bachelor of Engineering with Honours in ICT, majoring in **Information Security** at SIT. -->
+Currently pursuing a Bachelor of Engineering with Honours in ICT, majoring in **Information Security** at SIT.
 
 ---
 ## 🛠️ Skills
 - **Programming Languages:** C#, SQL, Python, Java, HTML, CSS, JavaScript, PHP, PowerShell
-- **Technologies:** Cloud Computing (AWS), Cybersecurity, Server Administration, Virtualisation, Enterprise Networking, Robotic Process Automation (RPA)
+- **Technologies:** Cloud Computing (AWS), Cybersecurity, Server Administration, Virtualisation, Enterprise Networking, Robotic Process Automation (RPA) (Blue Prism Software)
 
 ---
 
@@ -21,7 +21,7 @@ I am passionate about seeing the work I do have a positive impact on the people 
 ---
 
 ## 🎵 Fun Fact
-When I’m not coding or learning about cybersecurity, you’ll find me listening to music from various genres — including unique wind band arrangements!
+When I’m not coding or learning about cybersecurity, you’ll find me listening to music from various genres including unique wind band arrangements!
 
 ---
 
