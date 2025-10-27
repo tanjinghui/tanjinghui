@@ -25,5 +25,5 @@ When I’m not coding or learning about cybersecurity, you’ll find me listenin
 
 ---
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/link)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/)
 
