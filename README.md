@@ -10,18 +10,18 @@ Currently pursuing a Bachelor of Engineering with Honours in ICT, majoring in **
 ---
 
 ## 💡 What Drives Me
-I am passionate about seeing the work I do have a positive impact on the people I work with and on business clients. I love solving real-world problems and contributing to a safer and more connected digital world.
+I am passionate about seeing the work I do have a positive impact on the people I work with.
 
 ---
 
 ## 🎯 Goals
-- Deepen my expertise in cybersecurity and cloud technologies
+- Deepen my expertise in cybersecurity (Blue Team & GRC)
 - Continuously learn and grow as a technology professional
 
 ---
 
 ## 🎵 Fun Fact
-When I’m not coding or learning about cybersecurity, you’ll find me listening to music from various genres including unique wind band arrangements!
+When I’m not coding or learning about cybersecurity, you’ll find me yapping with my volunteer friends!
 
 ---
 
